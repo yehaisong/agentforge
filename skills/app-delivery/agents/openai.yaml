@@ -1,0 +1,4 @@
+interface:
+  display_name: "Application Delivery"
+  short_description: "Deliver app changes with project-specific evidence"
+  default_prompt: "Use $app-delivery to complete this application task using the repository's conventions and relevant verification."
